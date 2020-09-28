@@ -1,0 +1,7 @@
+
+en:
+  errors:
+    messages:
+      antivirus_virus_detected: 'ist von Viren befallen'
+      antivirus_client_error: 'konnte nicht gescannt werden'
+      antivirus_file_not_found: 'konte nicht gefunden werden'
